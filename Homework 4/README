@@ -1,0 +1,5 @@
+To run the script:
+1. Confirm that 'hw4p4.py' is in the same directory as 'data.txt'.
+2. run the following command: "python hw4p4.py"
+
+The results should be written to a file called 'change.txt'. If 'change.txt' did not already exist, it will be created. If 'change.txt' already exists, its contents will be replaced by the new results.
